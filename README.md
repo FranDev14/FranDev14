@@ -1,4 +1,4 @@
-### Hello! nice to meet you ![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
+### <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hello! nice to meet you!
 
 
 <!--
